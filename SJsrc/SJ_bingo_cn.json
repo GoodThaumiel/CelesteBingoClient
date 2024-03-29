@@ -1,0 +1,248 @@
+[
+	[
+		{"name": "通关 酱一/林间小径", "types": []},
+		{"name": "通关 酱一/苍蓝洞穴", "types": []},
+		{"name": "通关 酱一/圈圈环礁湖", "types": []},
+		{"name": "通关 酱一/“私人车道”", "types": []},
+		{"name": "通关 酱一/树巢", "types": []},
+		{"name": "酱一/苍蓝洞穴 2草莓", "types": ["berries"]}
+	],
+	[
+		{"name": "酱一/林间小径 无抓", "types": ["grabless"]},
+		{"name": "酱一/苍蓝洞穴 无抓", "types": ["grabless"]},
+		{"name": "酱一/“私人车道” 无抓", "types": ["grabless"]},
+		{"name": "通关 酱一/玫瑰花园", "types": []},
+		{"name": "通关 酱一/挤压", "types": []},
+		{"name": "酱一/林间小径 4草莓", "types": ["berries"]},
+		{"name": "酱一/“私人车道” 3草莓", "types": ["berries"]},
+		{"name": "酱一/挤压 2草莓", "types": ["berries"]}
+	],
+	[
+		{"name": "酱一大厅 摸竹竿顶上的猫", "types": ["cat"]},
+		{"name": "2张小图 无抓", "types": ["grabless"]},
+		{"name": "通关 酱一/崩坏天际线", "types": []},
+		{"name": "通关 酱一/城市之上", "types": []},
+		{"name": "酱一/圈圈环礁湖 3草莓", "types": ["berries"]},
+		{"name": "酱一/崩坏天际线 3草莓", "types": ["berries"]},
+		{"name": "酱一/树巢 2草莓", "types": ["berries"]},
+		{"name": "5草莓", "types": ["berries"]}
+	],
+	[
+		{"name": "酱一/草莓果园 摸猫", "types": ["cat"]},
+		{"name": "通关 酱一/对流层", "types": []},
+		{"name": "通关 酱一/管道与开关", "types": []},
+		{"name": "通关 酱一/来自星星的礼物", "types": []},
+		{"name": "酱一/对流层 1草莓", "types": ["berries"]}
+	],
+	[
+		{"name": "酱一/眼见为实 Badeline隐藏房", "types": []},
+		{"name": "酱一/画境 钥匙彩蛋", "types": []},
+		{"name": "通关 酱一/草莓果园", "types": []},
+		{"name": "通关 酱一/被核心的城市", "types": []},
+		{"name": "酱一/城市之上 3草莓", "types": ["berries"]},
+		{"name": "酱一/潜在的一切 3草莓", "types": ["berries"]},
+		{"name": "酱一/画境 4草莓", "types": ["berries"]},
+		{"name": "酱一/管道与开关 5草莓", "types": ["berries"]}
+	],
+	[
+		{"name": "摸3只猫", "types": ["cat"]},
+		{"name": "通关 酱一/潜在的一切", "types": []},
+		{"name": "通关 酱一/画境", "types": []},
+		{"name": "酱一/来自星星的礼物 5草莓", "types": ["berries"]},
+		{"name": "酱一/草莓果园 5草莓", "types": ["berries"]},
+		{"name": "酱一/被核心的城市 3草莓", "types": ["berries"]},
+		{"name": "10草莓", "types": ["berries"]},
+		{"name": "酱一10草莓", "types": ["berries"]}
+	],
+	[
+		{"name": "酱一大厅 与所有长椅交互", "types": []},
+		{"name": "酱一大厅 摸螃蟹彩蛋处的猫", "types": ["cat"]},
+		{"name": "5水晶之心", "types": ["hearts"]},
+		{"name": "通关 酱一/眼见为实", "types": []},
+		{"name": "通关 酱一/香皂", "types": []},
+		{"name": "通关 酱一/坠落谜题", "types": []},
+		{"name": "酱一/眼见为实 1草莓", "types": ["berries"]},
+		{"name": "酱一/节奏山脊 2草莓", "types": ["berries"]}
+	],
+	[
+		{"name": "以单人模式（开头撞Badeline）通关 酱一/眼见为实", "types": []},
+		{"name": "6蓝心", "types": ["hearts"]},
+		{"name": "通关 酱一/午夜之巅", "types": []},
+		{"name": "通关 酱二/第五维度", "types": []},
+		{"name": "酱一/午夜之巅 4草莓", "types": ["berries"]},
+		{"name": "酱一/坠落谜题 5草莓", "types": ["berries"]},
+		{"name": "2张小图各5草莓", "types": ["berries"]}
+	],
+	[
+		{"name": "酱一大厅 摸蓝莓湾入口处的猫", "types": ["cat"]},
+		{"name": "摸5只猫", "types": ["cat"]},
+		{"name": "通关 酱一/节奏山脊", "types": []},
+		{"name": "通关 酱二/星空之眠", "types": []},
+		{"name": "通关 酱二/霜冻碎片", "types": []},
+		{"name": "酱一/香皂 5草莓", "types": ["berries"]},
+		{"name": "酱二/星空之眠 1草莓", "types": ["berries"]},
+		{"name": "酱二/霜冻碎片 2草莓", "types": ["berries"]},
+		{"name": "酱二/低重力植物园 3草莓", "types": ["berries"]}
+	],
+	[
+		{"name": "酱二大厅 摸猫", "types": ["cat"]},
+		{"name": "酱一/节奏山脊 无抓", "types": ["grabless"]},
+		{"name": "到达 蓝莓湾第2小节（流域）", "types": ["heartside"]},
+		{"name": "通关 酱二/低重力植物园", "types": []},
+		{"name": "通关 酱二/碧蓝", "types": []},
+		{"name": "通关 酱二/不知所谓的机器", "types": []},
+		{"name": "酱二/碧蓝 3草莓", "types": ["berries"]},
+		{"name": "酱二/不知所谓的机器 2草莓", "types": ["berries"]},
+		{"name": "15草莓", "types": ["berries"]}
+	],
+	[
+		{"name": "酱一15草莓", "types": ["berries"]},
+		{"name": "酱二/低重力植物园 无抓", "types": ["grabless"]},
+		{"name": "通关 酱二/午夜季风", "types": []},
+		{"name": "酱二/红蜜灯股份有限公司 3草莓", "types": ["berries"]},
+		{"name": "酱二/深海迷航 2草莓", "types": ["berries"]},
+		{"name": "酱二5草莓", "types": ["berries"]}
+	],
+	[
+		{"name": "酱二/霜冻碎片 摸猫", "types": ["cat"]},
+		{"name": "酱二/红蜜灯股份有限公司 开全部5道钥匙门", "types": []},
+		{"name": "到达 蓝莓湾第3小节（安宁）", "types": ["heartside"]},
+		{"name": "通关 酱二/红蜜灯股份有限公司", "types": []},
+		{"name": "通关 酱二/深海迷航", "types": []},
+		{"name": "酱二/午夜季风 3草莓", "types": ["berries"]},
+		{"name": "2个大厅各5草莓", "types": ["berries"]}
+	],
+	[
+		{"name": "摸7只猫", "types": ["cat"]},
+		{"name": "通关 酱二/汤之海", "types": []},
+		{"name": "通关 酱二/眩晕", "types": []},
+		{"name": "通关 酱二/塔", "types": []},
+		{"name": "通关 酱二/河豚运输有限公司", "types": []},
+		{"name": "酱二/塔 3草莓", "types": ["berries"]},
+		{"name": "20草莓", "types": ["berries"]},
+		{"name": "3张小图各5草莓", "types": ["berries"]}
+	],
+	[
+		{"name": "酱二/汤之海 无冲", "types": []},
+		{"name": "到达 蓝莓湾第4小节（翡翠）", "types": ["heartside"]},
+		{"name": "4红心", "types": ["hearts"]},
+		{"name": "酱二/汤之海 5草莓", "types": ["berries"]},
+		{"name": "酱二/河豚运输有限公司 5草莓", "types": ["berries"]},
+		{"name": "酱一20草莓", "types": ["berries"]}
+	],
+	[
+		{"name": "10水晶之心", "types": ["hearts"]},
+		{"name": "9蓝心", "types": ["hearts"]},
+		{"name": "通关 酱二/净化行动", "types": []},
+		{"name": "通关 酱二/工地难题", "types": []},
+		{"name": "通关 酱三/死亡激光实验室", "types": ["advanced"]},
+		{"name": "酱二10草莓", "types": ["berries"]},
+		{"name": "2个大厅各10草莓", "types": ["berries"]},
+		{"name": "酱三大厅 摸云上的猫", "types": ["advanced","cat"]},
+		{"name": "酱三大厅 摸地窖中的猫", "types": ["advanced","cat"]},
+		{"name": "1金心", "types": ["advanced"]}
+	],
+	[
+		{"name": "到达 蓝莓湾第5小节（繁盛）", "types": ["heartside"]},
+		{"name": "通关 酱二/吃豆女孩", "types": []},
+		{"name": "通关 酱二/化方为圆", "types": []},
+		{"name": "通关 酱二/千空之寺", "types": []},
+		{"name": "通关 酱三/金色黎明", "types": ["advanced"]},
+		{"name": "酱二/工地难题 2草莓", "types": ["berries"]},
+		{"name": "酱二/千空之寺 4草莓", "types": ["berries"]},
+		{"name": "酱三/星光站 披萨房", "types": ["advanced"]}
+	],
+	[
+		{"name": "酱二/吃豆女孩 2草莓", "types": ["berries"]},
+		{"name": "酱二/净化行动 5草莓", "types": ["berries"]},
+		{"name": "通关 酱三/星尘遗迹", "types": ["advanced"]},
+		{"name": "通关 酱三/水母圣所", "types": ["advanced"]},
+		{"name": "通关 酱三/丛林快跑", "types": ["advanced"]},
+		{"name": "通关 酱三/开关理论", "types": ["advanced"]},
+		{"name": "酱二/化方为圆 5草莓", "types": ["berries"]},
+		{"name": "酱三/死亡激光实验室 1草莓", "types": ["berries"]},
+		{"name": "酱三/水母圣所 1草莓", "types": ["berries"]},
+		{"name": "酱二/化方为圆 OWO彩蛋房", "types": []}
+	],
+	[
+		{"name": "酱二大厅 与所有长椅交互", "types": []},
+		{"name": "到达 蓝莓湾第6小节（港湾）", "types": ["heartside"]},
+		{"name": "通关 酱三/时之沙", "types": ["advanced"]},
+		{"name": "通关 酱三/迷失森林", "types": ["advanced"]},
+		{"name": "通关 酱三/炽热海沟", "types": ["advanced"]},
+		{"name": "通关 酱三/克隆之击", "types": ["advanced"]},
+		{"name": "通关 酱三/传送门难题", "types": ["advanced"]},
+		{"name": "酱三/炽热海沟 2草莓", "types": ["advanced","berries"]},
+		{"name": "酱三/金色黎明 3草莓", "types": ["advanced","berries"]},
+		{"name": "酱三/丛林快跑 3草莓", "types": ["advanced","berries"]},
+		{"name": "酱三/迟来的情人节 2草莓", "types": ["advanced","berries"]}
+	],
+	[
+		{"name": "摸9只猫", "types": ["cat"]},
+		{"name": "到达 树莓根下第2小节（树梢）", "types": ["heartside"]},
+		{"name": "通关 酱三/史莱姆时间！", "types": ["advanced"]},
+		{"name": "通关 酱三/Java的地下室", "types": ["advanced"]},
+		{"name": "通关 酱三/颠倒洞穴", "types": ["advanced"]},
+		{"name": "酱三/时之沙 3草莓", "types": ["advanced","berries"]},
+		{"name": "酱三/史莱姆时间！ 3草莓", "types": ["advanced","berries"]},
+		{"name": "酱三/克隆之击 1草莓", "types": ["advanced","berries"]},
+		{"name": "酱三/开关理论 3草莓", "types": ["advanced","berries"]},
+		{"name": "酱三/上层建筑 1草莓", "types": ["advanced","berries"]},
+		{"name": "30草莓", "types": ["berries"]}
+	],
+	[
+		{"name": "酱三大厅 与所有长椅交互", "types": ["advanced"]},
+		{"name": "蓝莓湾 摸猫", "types": ["heartside","cat"]},
+		{"name": "酱三/星光站 摸猫", "types": ["advanced","cat"]},
+		{"name": "酱三/颠倒洞穴 摸猫", "types": ["advanced","cat"]},
+		{"name": "通关 蓝莓湾", "types": ["heartside"]},
+		{"name": "6红心", "types": ["hearts"]},
+		{"name": "通关 酱三/迟来的情人节", "types": ["advanced"]},
+		{"name": "酱三/突触 1草莓", "types": ["advanced","berries"]},
+		{"name": "酱三/传送门难题 3草莓", "types": ["advanced","berries"]},
+		{"name": "酱三/颠倒洞穴 3草莓", "types": ["advanced","berries"]},
+		{"name": "酱二15草莓", "types": ["berries"]},
+		{"name": "酱三5草莓", "types": ["advanced","berries"]}
+	],
+	[
+		{"name": "到达 树莓根下第3小节（菌丝）", "types": ["heartside"]},
+		{"name": "通关 酱三/密林之下", "types": ["advanced"]},
+		{"name": "通关 酱三/上层建筑", "types": ["advanced"]},
+		{"name": "通关 酱三/星光站", "types": ["advanced"]},
+		{"name": "通关 酱三/暮光之城", "types": ["advanced"]},
+		{"name": "通关 酱三/突触", "types": ["advanced"]},
+		{"name": "通关 酱三/实验室", "types": ["advanced"]},
+		{"name": "酱三/迷失森林 1草莓", "types": ["advanced","berries"]},
+		{"name": "酱三/Java的地下室 5草莓", "types": ["advanced","berries"]}
+	],
+	[
+		{"name": "2金心", "types": ["advanced","hearts"]},
+		{"name": "通关 酱三/蜂之怒", "types": ["advanced"]},
+		{"name": "通关 酱三/雨落玫瑰", "types": ["advanced"]},
+		{"name": "通关 酱三/十六号塔", "types": ["advanced"]},
+		{"name": "酱三/蜂之怒 1草莓", "types": ["advanced","berries"]},
+		{"name": "酱三/星光站 3草莓", "types": ["advanced","berries"]},
+		{"name": "酱三/实验室 3草莓", "types": ["advanced","berries"]},
+		{"name": "3个大厅各5草莓", "types": ["berries"]}
+	],
+	[
+		{"name": "酱三/迟来的情人节 Theo对话彩蛋", "types": ["advanced"]},
+		{"name": "金芒山 摸第1只猫（24旗）", "types": ["heartside","advanced","cat"]},
+		{"name": "通关 酱三/虚空的召唤", "types": ["advanced"]},
+		{"name": "酱三10草莓", "types": ["advanced","berries"]}
+	],
+	[
+		{"name": "酱三/虚空的召唤 5草莓", "types": ["advanced","berries"]},
+		{"name": "到达 树莓根下第4小节（氤氲）", "types": ["heartside"]},
+		{"name": "3金心", "types": ["advanced","hearts"]},
+		{"name": "酱三/密林之下 5草莓", "types": ["berries","advanced"]},
+		{"name": "15水晶之心", "types": ["hearts"]}
+	],
+	[
+		{"name": "酱三/雨落玫瑰 4草莓", "types": ["berries"]},
+		{"name": "通关 树莓根下", "types": ["heartside"]},
+		{"name": "40草莓", "types": ["berries"]},
+		{"name": "3个大厅各10草莓", "types": ["berries","advanced"]},
+		{"name": "到达 金芒山第2小节（山脊）", "types": ["heartside","advanced"]}
+	]
+]
